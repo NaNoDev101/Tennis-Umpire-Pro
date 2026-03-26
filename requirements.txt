@@ -1,0 +1,10 @@
+# Tennis Umpire Pro — Python dependencies
+#
+# Standard-library modules (tkinter, json, logging, subprocess, dataclasses,
+# datetime, time, os) need no separate installation.
+#
+# Install with:
+#   pip install -r requirements.txt
+
+Pillow>=10.0.0      # PNG match-card generation
+pytest>=7.0.0       # Unit-test runner (development only)
